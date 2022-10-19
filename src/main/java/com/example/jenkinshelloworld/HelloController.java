@@ -10,7 +10,7 @@ public class HelloController {
 
     @GetMapping("/jenkins")
     public String hello() {
-        return "Hello World";
+        return "Hello World 2";
     }
 
 }
